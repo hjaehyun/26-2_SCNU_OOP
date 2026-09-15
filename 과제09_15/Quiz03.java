@@ -1,4 +1,4 @@
-public class 형성평가03 {
+public class Quiz03 {
     public static void main(String[] args) {
         char t = '\t';
         char n = '\n';

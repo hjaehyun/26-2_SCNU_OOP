@@ -1,4 +1,4 @@
-public class 형성평가04 {
+public class Quiz04 {
     public static void main(String[] args) {
        int kor = 90;
        int mat = 80;
