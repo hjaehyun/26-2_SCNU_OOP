@@ -1,4 +1,4 @@
-public class Main {
+public class Quiz05 {
     public static void main(String[] args) {
         String Seoul = "          Seoul     10,312,545        +91,375";
         String Pusan = "          Pusan      3,567,910         +5,868";
