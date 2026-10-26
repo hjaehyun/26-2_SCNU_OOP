@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String[] args){
+        Scanner s = new Scanner(System.in);
+        char[] n = new char[10];
+        n[0]= s.next().charAt(0);
+        n[1]= s.next().charAt(0);
+        n[2]= s.next().charAt(0);
+        n[3]= s.next().charAt(0);
+        n[4]= s.next().charAt(0);
+        n[5]= s.next().charAt(0);
+        n[6]= s.next().charAt(0);
+        n[7]= s.next().charAt(0);
+        n[8]= s.next().charAt(0);
+        n[9]= s.next().charAt(0);
+        for(int i=9;0<=i;i--){
+            System.out.print(n[i] + " ");
+        }
+    }
+}
